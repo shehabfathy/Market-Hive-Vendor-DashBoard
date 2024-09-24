@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.field {
+  @apply block w-full outline-sky-500 border p-2 rounded-md;
+}
